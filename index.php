@@ -83,9 +83,9 @@
 	
 		<h2>Getting to Know Me</h2>
 
+	<dl>
 		<dt>In 2+ sentences describe who you are and what you do.</dt>
 		<dd>I live in the Boston area. I'm a Web Application Support Associate at <a href="http://hms.harvard.edu" target="_blank">Harvard Medical School</a>'s IT department, and I'm working on growing my career in the direction of instructional technology and UI/UX. In my spare time, I like to do yoga - I especially enjoy the alignment-based yoga classes at <a href="http://www.backbayyoga.com" target="_blank">Back Bay Yoga</a>.</dd>
-	<dl>
 		<dt>Why are you taking this course?</dt>
 		<dd>I'm planning to apply to the <a href="http://www.extension.harvard.edu/degrees-programs/information-technology/concentrations-courses/digital-media" target="_blank">Master's in IT concentrating in Digital Media Arts and Instructional Design</a>, and this course will count as one of the requirements. I'm excited to be learning more about version control and PHP!</dd>
 
