@@ -28,7 +28,7 @@
 
 		<h2>A Photo of Tamara</h2>
 		<p>Here is a dorky picture of me sitting at my desk at work:</p>
-		<p><img src="img/tamara.jpg" alt="Photo of Tamara Will sitting at her desk." /></p>
+		<p><img class="img-responsive" src="img/tamara.jpg" alt="Photo of Tamara Will sitting at her desk." /></p>
 		<h2>Tamara's DWA15 Projects</h2>
 	</div> <!-- end col -->
 	</div> <!-- end row -->
