@@ -103,7 +103,7 @@
 </div> <!-- end div class container-fluid -->
 
 <!-- JQuery Javascript -->
-<script src="https://code.jquery.com/ui/1.11.1/jquery-ui.min.js"></script>
+<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 
 <!-- Bootstrap JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
