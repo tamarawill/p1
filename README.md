@@ -19,7 +19,7 @@ A simple portfolio page for my DWA15 projects, styled using Bootstrap via CDN. I
 <https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css>
 
 **JQuery:**
-<https://code.jquery.com/ui/1.11.1/jquery-ui.min.js>
+<https://code.jquery.com/jquery-2.1.1.min.js>
 
 **Bootstrap Javascript:** 
 <https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js>
